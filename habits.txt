@@ -3,3 +3,4 @@ To focus on main goal stuff and ship the product and be keep environment simple 
 Keep it simple concept. Be able to reuse code and everybody else can read the code and understand it. If its too complicated I am lost at my own code.
 To not be disturb during the most productive period of time.  
 Always learn new things. To get out of your comfort zone. 
+Collaborate with others. It can really save my time and effort when I collaborate with my team workers. 

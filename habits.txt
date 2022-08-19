@@ -2,3 +2,4 @@ Essential for programmers are good sleep and good exercise and you should sit ba
 To focus on main goal stuff and ship the product and be keep environment simple to be productive at any machine. I also hate plugins and lot of formatter, I just need dark mode and that’s it. 
 Keep it simple concept. Be able to reuse code and everybody else can read the code and understand it. If its too complicated I am lost at my own code.
 To not be disturb during the most productive period of time.  
+Always learn new things. To get out of your comfort zone. 
